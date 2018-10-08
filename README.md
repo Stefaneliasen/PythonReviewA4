@@ -3,7 +3,7 @@
 # Jeres review vil blive lavet efter skole tirsdag, der vi alle havde tid. Håber ikke at det gør noget.
 ## Q1
 ## Do you agree with the results presented in the given solution?
-### If not describe what in the given program produces an erroneous result and describe a possible fix.
+If not describe what in the given program produces an erroneous result and describe a possible fix.
 
 Spørgsmål 1, er vi helt enige, da vi har samme svar.
 Spørgsmål 2, har vi selv fået det til 5, mindre end jer, men det er så lidt, så går udfra det ikke har betydning.

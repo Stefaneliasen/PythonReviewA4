@@ -16,3 +16,5 @@ If not, describe what information is missing
 ## Q3
 ### Pick one part of the given program and give feedback on how that piece of code could be improved.
 For example, describe how the code would be more readable, easier to understand, more performant, or error-free.
+
+Nazdarovja

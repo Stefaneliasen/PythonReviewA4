@@ -1,0 +1,39 @@
+Q1. 
+Do you agree with the results presented in the given solution?
+Nazdarovja
+Spørgsmål 1
+Er vi helt enige i, da vi har samme svar.
+
+Spørgsmål 2
+Svaret har vi selv fået til 5 mindre end jer, men vi har begge tjekket på produktions filmen, så kan ikke lige se hvorfor i får 5 mere.
+
+Spørgsmål 3
+Har vi selv fået samme svar, så er vi igen enige.
+
+Spørgsmål 4.
+Har i lavet rigtigt. 
+
+Spørgsmål 5.
+Har vi igen samme svar, så vi antager vi begge har lavet den rigtig.
+
+Spørgsmål 6.
+Er vi bestemt ikke enige i, da i vælger at lave jeres x-akse til år
+hvor der i opgaven stod der skulle være dd/mm.
+Vi har derfor talt alle dato'er op på eksempelvis 01-01, og i har talt alle op fra 1997-01-01 også igen 1998-01-01.
+
+Spørgsmål 7.
+Jeres scatterplot ser lidt sjov ud :D godt nok små prikker, vi kan ikke lige bedømme om den er rigtig.
+
+Spørgsmål 8.
+Ser rigtig flot ud.
+Q2
+Does the given description allow you to run the given code and recreate the presented results? 
+Ja det virker når vi køre koden.
+
+Q3
+Pick one part of the given program and give feedback on how that piece of code could be improved.
+
+Vi har selv lavet vores datatyper sådanne så vi får dem ind fra csv filen, 
+kunne være en god idé istedet for i kaster typerne igennem jeres program, så i ikke får redudant kode.
+
+(fra lektionen)Aldrig giv moduler med store bogstaver

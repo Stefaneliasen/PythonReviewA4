@@ -1,6 +1,5 @@
 # PythonReviewA4
 
-# Jeres review vil blive lavet efter skole tirsdag, der jeg havde tid. Håber ikke at det gør noget.
 ## Q1
 ### Do you agree with the results presented in the given solution?
 If not describe what in the given program produces an erroneous result and describe a possible fix.

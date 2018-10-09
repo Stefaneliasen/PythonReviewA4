@@ -1,0 +1,39 @@
+Q1
+Do you agree with the results presented in the given solution?
+
+Spørgsmål 1
+Enig
+
+Spørgsmål 2
+Har vi selv fået 5 mindre, men kan være pga korrupt data, at vi ikke får de resterende 5.
+
+Spørgsmål 3
+Enig
+
+Spørgsmål 4
+Da i kigger på original language, og vi kigger på produktion country får i et andet svar end vi gør. Ved ikke hvad jeg vil sige er mest rigtigt.
+
+Spørgsmål 5
+Tror i har forkert svar, kan ikke lige se hvor i koden, men de andre jeg har lavet review for, og vi selv
+har fundet frem til svaret var Avatar.
+
+Spørgsmål 6
+Jeg vil sige i har forstået opgaven forkert, da der i det billede helge har taget står at x aksen skal være dd/mm
+og ikke år, som i har :) 
+hvilket vil sige i tæller op fra 1997-01-01 og 1998-01-01 som 2 seperate. i stedet for at tælle
+01-01 som det samme, lige meget hvilket år. 
+
+Spørgsmål 7
+Virker som om i har fået dataen ud, men lidt svært at give review uden scatter plot :)
+
+Spørgsmål 8
+I mangler så også her 3d plottet. men har dataen :) 
+
+Q2
+Does the given description allow you to run the given code and recreate the presented results?
+Yes kunne godt få det til at køre.
+Q3
+Pick one part of the given program and give feedback on how that piece of code could be improved.
+Kan ikke umiddelbart finde noget i koden der kan gøres bedre, i kunne måske godt have haft de 2 grafer i mangler :)
+
+

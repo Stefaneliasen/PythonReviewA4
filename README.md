@@ -5,9 +5,6 @@
 ### Do you agree with the results presented in the given solution?
 If not describe what in the given program produces an erroneous result and describe a possible fix.
 
-Spørgsmål 1, er vi helt enige, da vi har samme svar.
-Spørgsmål 2, har vi selv fået det til 5, mindre end jer, men det er så lidt, så går udfra det ikke har betydning.
-
 ## Q2
 ### Does the given description allow you to run the given code and recreate the presented results?
 If not, describe what information is missing

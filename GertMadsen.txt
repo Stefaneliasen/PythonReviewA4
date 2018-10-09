@@ -1,0 +1,33 @@
+Q1
+Do you agree with the results presented in the given solution?
+
+Spørgsmål 1
+Vi har selv fået svaret til 9 hvor i får det til 8, vil gå udfra det er en i har fået spist noget af jeres data 
+når i konvertere jeres csv fil.
+
+Spørgsmål 2
+Vi har self fået 2 mere end jer, så går ud fra igen, i har måske spist noget af dataen.
+
+Spørgsmål 3
+Er vi helt enige i jeres svar.
+
+Spørgsmål 4
+Igen helt enige.
+
+Spørgsmål 5
+Helt enige
+
+Spørgsmål 6
+Vi har selv lavet vores X graf så der kun står dato'er men virker smart at bruge måneder i stedet
+Ser helt perfekt ud, aldrig set en så flot graf.
+
+Spørgsmål 7
+Er svær at give review på da den graf i får ud af jeres kode, ser lidt sjov ud.
+
+Q2
+Does the given description allow you to run the given code and recreate the presented results?
+Yes virkede perfekt
+
+Q3
+Pick one part of the given program and give feedback on how that piece of code could be improved.
+intet jeg umiddelbart kan gøre bedre.
